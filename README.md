@@ -12,6 +12,9 @@ Game introduction :
 
 The single player game wordibble is a creative, interesting and learning game which tests your vocab and memory.It is a game having several variants as per user choice and user have to cross you have to guess a N letter word in minimum guesses possible ,though maximum guesses are only 6. 
 
+![Screenshot (22)](https://user-images.githubusercontent.com/76883890/157546929-0cda3730-5eeb-4884-b575-a7ae06aaac71.png)
+
+
 Step 1 : the user enters a random valid word in the 5 boxes (5 letters).
 Step 2 : after pressing enter the game shows if the word is corrent or not .
             if it's not correct then : 
