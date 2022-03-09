@@ -1,4 +1,8 @@
 # Wordibble
+![istockphoto-1166859687-612x612](https://user-images.githubusercontent.com/76883890/157510627-e5b1f713-3e9d-42da-b164-29e84a0a3be5.jpg)
+
+(tried adding image in markdown file as suggested on telegram)
+
 guess the word , dear lexicographer !!
 
 *lexicographer : someone who knows a lot of words 
