@@ -68,7 +68,6 @@ header {
   box-sizing: border-box;
 }
 
-
 .square {
   border: 2px solid rgb(58, 58, 60);
   min-width: 60px;
@@ -82,7 +81,6 @@ header {
   justify-content: center;
   align-items: center;
 }
-
 
 .keyboard-row button {
   font-family: inherit;
