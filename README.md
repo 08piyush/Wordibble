@@ -28,3 +28,10 @@ Step 3 : now the user inputs a next word , considering the previous observations
 
 
 In all user have 6 level to enter the word , if user is unable to guess the word in atmost 6 chances then he loses otherwise he wins the game. 
+
+
+
+reference : 
+https://github.com/ianlenehan/wordle-clone
+
+https://www.youtube.com/watch?v=j7OhcuZQ-q8
